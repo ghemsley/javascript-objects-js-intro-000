@@ -1,4 +1,4 @@
-let playlist = { Jimi Hendrix : 'Fire' }
+let playlist = { 'Jimi Hendrix' : 'Fire' }
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
